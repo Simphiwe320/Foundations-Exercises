@@ -1,0 +1,13 @@
+/*In this project we will be chaining 
+  selectors and applying different decla-
+  rations on selectors.*/
+
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
