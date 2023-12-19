@@ -1,0 +1,22 @@
+/* Styling the boxes */
+
+.blackBackground,.yellowBackground {
+    width: 23.33%;
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    border-style: solid;
+    min-height: 40px;
+}
+
+.blackBackground {
+    background-color: black;
+    color: white;
+    float: left;
+}
+
+.yellowBackground {
+    margin: 0 auto;
+    background-color: yellow;
+}

@@ -1,0 +1,17 @@
+/* Styling of third project*/
+
+.blackBackground {
+    color: white;
+    background-color: black;
+}
+
+.yellowBackground {
+    background-color: yellow;
+    border: black;
+}
+
+.blackBackground,.yellowBackground {
+    font-size: 28px;
+    font-style: Helvetica; Times New Roman;
+    font-weight: bold;
+}
